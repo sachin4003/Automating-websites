@@ -1,4 +1,4 @@
-These files contain codes that allow us to automate websites using selenium python library.
+These files contain codes that allow us to automate browsers using selenium python library.
 
 ########################
 The "NewsLoader.py" file automates the searching and loading of live news coverage on youtube.
